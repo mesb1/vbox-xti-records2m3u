@@ -1,8 +1,8 @@
 # vbox-xti-records2m3u for VBox XTi
 
-   Script for generating m3u playlist witl url to records.\\
+   Script for generating m3u playlist witl url to records.
    
-   Today we have lots of cheap dvb-t2/c receivers on the market, it supports IPTV via lan or wifi.\\
+   Today we have lots of cheap dvb-t2/c receivers on the market, it supports IPTV via lan or wifi. (selenga hd980d, world vision t625a lan, etc)
    
    VBox XTi automatically generate m3u list directly available for such tuners, but manufacturer doesn't do this for recordings.\\
    
