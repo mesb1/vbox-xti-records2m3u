@@ -4,9 +4,9 @@
    
    Today we have lots of cheap dvb-t2/c receivers on the market, it supports IPTV via lan or wifi. (selenga hd980d, world vision t625a lan, etc)
    
-   VBox XTi automatically generate m3u list directly available for such tuners, but manufacturer doesn't do this for recordings.\\
+   VBox XTi automatically generate m3u list directly available for such tuners, but manufacturer doesn't do this for recordings.
    
-   This script allow you to fix this issue until VBoxComm will add this feature info firmware.\\
+   This script allow you to fix this issue until VBoxComm will add this feature info firmware.
    
 
 ## Features
@@ -25,6 +25,10 @@
    - VBox TV Gateway device
 
 Configuration should be done with setting placed at the top of the script.
+
+Check all paths for your system.
+
+By default script works with xupnpd as pair, basically using it only for m3u distributing.
   
 ### Feedback
 
