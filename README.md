@@ -1,8 +1,11 @@
 # vbox-xti-records2m3u for VBox XTi
 
    Script for generating m3u playlist witl url to records.\\
+   
    Today we have lots of cheap dvb-t2/c receivers on the market, it supports IPTV via lan or wifi.\\
+   
    VBox XTi automatically generate m3u list directly available for such tuners, but manufacturer doesn't do this for recordings.\\
+   
    This script allow you to fix this issue until VBoxComm will add this feature info firmware.\\
    
 
