@@ -1,4 +1,4 @@
-# vbox-xti-records2m3u for VBox XTi
+# vbox_xti_records2m3u for VBox XTi
 
    Script for generating m3u playlist witl url to records.
    
@@ -32,7 +32,7 @@ By default script works with xupnpd as pair, basically using it only for m3u dis
   
 ### Feedback
 
-  - [Issues](https://github.com/mesb1/vbox-xti-records2m3u/issues)
+  - [Issues](https://github.com/mesb1/vbox_xti_records2m3u/issues)
   - [Telegram group](http://t.me/vboxcomm_chat)
   - [Telegram channel](http://t.me/vboxcomm)
   
@@ -42,6 +42,7 @@ By default script works with xupnpd as pair, basically using it only for m3u dis
   - [VBRec](https://github.com/mejgun/vbr)
   - [Google Play](https://play.google.com/store/apps/details?id=com.mejsoftware.vbox_recorder)
   - [App Store](https://apps.apple.com/us/app/vbrec-for-vbox-xti/id1477864986)
+  - [Web Interface](https://github.com/MymsMan/vbox_webif)
 
 
 
