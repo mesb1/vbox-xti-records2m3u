@@ -26,7 +26,7 @@ for (( i=0; i<${arraylength}; i++ ));
 do
     IFS="|" read -r recitem1 recitem2 recitem3 recitem4 <<<"${recorded[$i]}"
     if [ -z "$recitem2" ]; then recitem2="Unknown"; fi
-    if [ "$recitem4" != "recorded" ]; then continue; fi
+    if [[ ! "$recitem4" =~ ^(recorded|recording) ]]; then continue; fi
 
     M3UREADY="${M3UREADY}\n#EXTINF:-1,""${recitem2} - ${recitem1}"
     M3UREADY="${M3UREADY}\n${recitem3}"
